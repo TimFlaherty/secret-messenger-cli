@@ -1,0 +1,19 @@
+{
+  "name": "secret-messenger-cli",
+  "version": "1.0.0",
+  "description": "Simple Message Encryption & Decryption",
+  "main": "sm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimFlaherty/secret-messenger-cli.git"
+  },
+  "author": "Tim Flaherty <tflahertytmf@gmail.com> (https://github.com/TimFlaherty)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimFlaherty/secret-messenger-cli/issues"
+  },
+  "homepage": "https://github.com/TimFlaherty/secret-messenger-cli#readme"
+}
